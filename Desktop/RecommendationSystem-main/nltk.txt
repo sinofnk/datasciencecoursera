@@ -1,0 +1,5 @@
+wordnet
+punkt
+averaged_perceptron_tagger
+averaged_perceptron_tagger_ru
+omw-1.4
